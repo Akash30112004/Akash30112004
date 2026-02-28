@@ -61,5 +61,7 @@ with secure API handling.
 ---
 
 ## 📫 Contact
-Email: singhakash27158@gmail.com  
-LinkedIn: linkedin.com/in/akash456
+📧 Email: singhakash27158@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/akash456  
+💻 GitHub: https://github.com/Akash30112004  
+🧠 LeetCode: https://leetcode.com/u/Akash30112004/
