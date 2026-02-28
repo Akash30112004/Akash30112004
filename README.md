@@ -28,8 +28,8 @@ production-ready systems.
 ## 🛠 Tech Stack
 
 **Frontend:** React, Tailwind CSS, Vite  
-**Backend:** Node.js, Express, MongoDB  
-**Languages:** JavaScript (ES6+), Java, Python  
+**Backend:** Node.js, Express, MongoDB, JWT Authentication  
+**Languages:** JavaScript (ES6+), Java, Python, C, SQL  
 **Cloud:** AWS (EC2, S3, IAM, RDS)  
 **Tools:** Git, GitHub, Postman, MongoDB Compass  
 
