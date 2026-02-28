@@ -34,6 +34,12 @@ production-ready systems.
 **Tools:** Git, GitHub, Postman, MongoDB Compass  
 
 ---
+## 🧩 Core Strengths
+- Data Structures & Algorithms (DSA)
+- Object-Oriented Programming (OOP)
+- Competitive Programming (problem-solving focused)
+
+---
 
 ## 🚀 Selected Projects
 
@@ -65,3 +71,7 @@ with secure API handling.
 🔗 LinkedIn: https://linkedin.com/in/akash456  
 💻 GitHub: https://github.com/Akash30112004  
 🧠 LeetCode: https://leetcode.com/u/Akash30112004/
+
+---
+Thanks for visiting.  
+Open to collaborations, internships, and impactful tech projects.
