@@ -17,46 +17,76 @@ Here are some ideas to get you started:
 
 ### Full-Stack Web Developer | React | Node.js | MongoDB | AWS Certified
 
-I design and build scalable full-stack applications with secure authentication,
-real-time communication, payment integration, and AI-powered features.
+I build full-stack web applications using React, Node.js, Express, and MongoDB.
 
-Focused on backend architecture, performance optimization, and building
-production-ready systems.
+My interests include backend development, REST APIs, authentication systems,
+real-time applications, and AI-powered products. Currently learning FastAPI
+and improving backend system design.
 
 ---
 
 ## 🛠 Tech Stack
 
 **Frontend:** React, Tailwind CSS, Vite  
-**Backend:** Node.js, Express, MongoDB, JWT Authentication  
+**Backend:** Node.js, Express, JWT Authentication  
+**Database:** MongoDB  
 **Languages:** JavaScript (ES6+), Java, Python, C, SQL  
 **Cloud:** AWS (EC2, S3, IAM, RDS)  
 **Tools:** Git, GitHub, Postman, MongoDB Compass  
 
 ---
 ## 🧩 Core Strengths
-- Data Structures & Algorithms (DSA)
-- Object-Oriented Programming (OOP)
-- Competitive Programming (problem-solving focused)
+✔ REST API Development
+✔ Authentication (JWT)
+✔ Real-time Communication (Socket.IO)
+✔ Payment Integration (Razorpay)
+✔ Database Design
+✔ Problem Solving (DSA)
 
 ---
 
 ## 🚀 Selected Projects
 
 ### SnapLink
-Real-time chat platform using WebSockets (Socket.IO) with JWT authentication,
-media handling, user controls (block/mute), and local LLM (Ollama + Llama 3)
-chatbot integration for offline AI responses.
+Tech Stack: React • Tailwind CSS • Node.js • Express • MongoDB • Socket.IO
+
+🔗 GitHub: https://github.com/Akash30112004/SnapLink
+
+Description:
+
+Built a full-stack real-time chat application with secure JWT-based authentication
+Implemented instant messaging using Socket.IO for seamless communication
+Enabled media sharing and browser notifications for enhanced user experience
+Added user moderation features such as block and mute functionality
+Integrated an offline AI chatbot powered by Ollama (Llama 3)
 
 ### NovaMart
-End-to-end e-commerce system with product CRUD, protected routes,
-cart and order management, and Razorpay payment gateway integration
-with backend signature verification.
+Tech Stack: React • Tailwind CSS • Node.js • Express • MongoDB
+
+🔗 GitHub: https://github.com/Akash30112004/nova_mart
+🌐 Live Demo: https://novamart123.vercel.app/
+
+Description:
+
+Developed a full-stack e-commerce platform with secure user authentication
+Implemented product listing, cart management, and order processing features
+Integrated Razorpay for secure online payments
+Built protected routes for user and admin access control
+Designed an admin dashboard for managing products, users, and orders
 
 ### Imagify
-AI SaaS application supporting multi-user authentication,
-credit-based monetization, and real-time text-to-image generation
-with secure API handling.
+Tech Stack: React • Tailwind CSS • Node.js • Express • MongoDB
+
+🔗 GitHub: https://github.com/Akash30112004/Imagify
+🌐 Live Demo: https://imagify1-eight.vercel.app/
+
+Description:
+
+Created an AI-powered SaaS application for generating images from text prompts
+Integrated Clipdrop API for high-quality image generation
+Implemented user authentication and credit-based usage system
+Added Razorpay integration for secure payment processing
+Designed a responsive and user-friendly interface
 
 ---
 
@@ -66,12 +96,32 @@ with secure API handling.
 
 ---
 
-## 📫 Contact
-📧 Email: singhakash27158@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/akash456  
-💻 GitHub: https://github.com/Akash30112004  
-🧠 LeetCode: https://leetcode.com/u/Akash30112004/
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="mailto:singhakash27158@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/akash456">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Akash30112004">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Akash30112004/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
 
 ---
-Thanks for visiting.  
-Open to collaborations, internships, and impactful tech projects.
+🎯 Looking for
+
+Software Development Internship
+
+Backend Developer Internship
+
+Full-Stack Developer Internship
