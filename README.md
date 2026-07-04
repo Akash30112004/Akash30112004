@@ -51,8 +51,8 @@ and improving backend system design.
 ### SnapLink
 Tech Stack: React • Tailwind CSS • Node.js • Express • MongoDB • Socket.IO
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/Akash30112004/SnapLink)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://your-demo-link.vercel.app)
+🔗 [Repository](https://github.com/Akash30112004/SnapLink)
+🌐 [Live Demo](https://your-demo-link.vercel.app)
 
 Description:
 
@@ -118,7 +118,7 @@ Description:
   <a href="https://leetcode.com/u/Akash30112004/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="YOUR_PORTFOLIO_LINK">
+  <a href="https://singhakash27158.profiled.site/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
