@@ -54,7 +54,6 @@ Description:
 Tech Stack: React • Tailwind CSS • Node.js • Express • MongoDB
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/Akash30112004/nova_mart)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://novamart123.vercel.app/)
 
 Description:
 
