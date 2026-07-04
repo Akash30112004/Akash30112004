@@ -34,16 +34,6 @@ and improving backend system design.
 **Tools:** Git, GitHub, Postman, MongoDB Compass  
 
 ---
-## 🧩 Core Strengths
-
-- REST API Development
-- JWT Authentication & Authorization
-- Real-time Applications (Socket.IO)
-- Payment Gateway Integration (Razorpay)
-- Database Design
-- Data Structures & Algorithms
-
----
 
 ## 🚀 Selected Projects
 
@@ -87,6 +77,17 @@ Description:
 - Implemented user authentication and credit-based usage system
 - Added Razorpay integration for secure payment processing
 - Designed a responsive and user-friendly interface
+
+---
+
+## 🧩 Core Strengths
+
+- REST API Development
+- JWT Authentication & Authorization
+- Real-time Applications (Socket.IO)
+- Payment Gateway Integration (Razorpay)
+- Database Design
+- Data Structures & Algorithms
 
 ---
 
