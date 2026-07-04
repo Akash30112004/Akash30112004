@@ -95,18 +95,7 @@ Description:
 - MongoDB University – Database Basics
 
 ---
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akash30112004&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash30112004&theme=github-dark&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash30112004&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
 ## 📫 Connect with Me
 
 <p align="left">
