@@ -1,4 +1,4 @@
-## Akash Singh
+## AKASH SINGH
 <!--
 **Akash30112004/Akash30112004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -97,9 +97,14 @@ Description:
 ---
 ## 📊 GitHub Stats
 
-![Akash's GitHub stats](...)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akash30112004&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash30112004&theme=github-dark&hide_border=true" height="170"/>
+</p>
 
-![Top Languages](...)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash30112004&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 ---
 ## 📫 Connect with Me
 
