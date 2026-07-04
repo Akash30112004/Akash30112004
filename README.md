@@ -51,8 +51,14 @@ and improving backend system design.
 ### SnapLink
 Tech Stack: React • Tailwind CSS • Node.js • Express • MongoDB • Socket.IO
 
-🔗 [Repository](https://github.com/Akash30112004/SnapLink)
-🌐 [Live Demo](https://your-demo-link.vercel.app)
+<p>
+  <a href="https://github.com/Akash30112004/SnapLink">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github">
+  </a>
+  <a href="https://your-demo-link.vercel.app">
+    <img src="https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=vercel">
+  </a>
+</p>
 
 Description:
 
