@@ -36,12 +36,13 @@ and improving backend system design.
 
 ---
 ## 🧩 Core Strengths
-✔ REST API Development
-✔ Authentication (JWT)
-✔ Real-time Communication (Socket.IO)
-✔ Payment Integration (Razorpay)
-✔ Database Design
-✔ Problem Solving (DSA)
+
+- REST API Development
+- JWT Authentication & Authorization
+- Real-time Applications (Socket.IO)
+- Payment Gateway Integration (Razorpay)
+- Database Design
+- Data Structures & Algorithms
 
 ---
 
@@ -50,15 +51,16 @@ and improving backend system design.
 ### SnapLink
 Tech Stack: React • Tailwind CSS • Node.js • Express • MongoDB • Socket.IO
 
-🔗 GitHub: https://github.com/Akash30112004/SnapLink
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/Akash30112004/SnapLink)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://your-demo-link.vercel.app)
 
 Description:
 
-Built a full-stack real-time chat application with secure JWT-based authentication
-Implemented instant messaging using Socket.IO for seamless communication
-Enabled media sharing and browser notifications for enhanced user experience
-Added user moderation features such as block and mute functionality
-Integrated an offline AI chatbot powered by Ollama (Llama 3)
+- Built a full-stack real-time chat application with secure JWT-based authentication
+- Implemented instant messaging using Socket.IO for seamless communication
+- Enabled media sharing and browser notifications for enhanced user experience
+- Added user moderation features such as block and mute functionality
+- Integrated an offline AI chatbot powered by Ollama (Llama 3)
 
 ### NovaMart
 Tech Stack: React • Tailwind CSS • Node.js • Express • MongoDB
@@ -68,11 +70,11 @@ Tech Stack: React • Tailwind CSS • Node.js • Express • MongoDB
 
 Description:
 
-Developed a full-stack e-commerce platform with secure user authentication
-Implemented product listing, cart management, and order processing features
-Integrated Razorpay for secure online payments
-Built protected routes for user and admin access control
-Designed an admin dashboard for managing products, users, and orders
+- Developed a full-stack e-commerce platform with secure user authentication
+- Implemented product listing, cart management, and order processing features
+- Integrated Razorpay for secure online payments
+- Built protected routes for user and admin access control
+- Designed an admin dashboard for managing products, users, and orders
 
 ### Imagify
 Tech Stack: React • Tailwind CSS • Node.js • Express • MongoDB
@@ -82,11 +84,11 @@ Tech Stack: React • Tailwind CSS • Node.js • Express • MongoDB
 
 Description:
 
-Created an AI-powered SaaS application for generating images from text prompts
-Integrated Clipdrop API for high-quality image generation
-Implemented user authentication and credit-based usage system
-Added Razorpay integration for secure payment processing
-Designed a responsive and user-friendly interface
+- Created an AI-powered SaaS application for generating images from text prompts
+- Integrated Clipdrop API for high-quality image generation
+- Implemented user authentication and credit-based usage system
+- Added Razorpay integration for secure payment processing
+- Designed a responsive and user-friendly interface
 
 ---
 
@@ -95,7 +97,12 @@ Designed a responsive and user-friendly interface
 - MongoDB University – Database Basics
 
 ---
+## 📊 GitHub Stats
 
+![Akash's GitHub stats](...)
+
+![Top Languages](...)
+---
 ## 📫 Connect with Me
 
 <p align="left">
@@ -118,10 +125,8 @@ Designed a responsive and user-friendly interface
 
 
 ---
-🎯 Looking for
+## 🎯 Currently Looking For
 
-Software Development Internship
-
-Backend Developer Internship
-
-Full-Stack Developer Internship
+- Software Development Internship
+- Backend Developer Internship
+- Full-Stack Developer Internship
