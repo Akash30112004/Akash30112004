@@ -26,12 +26,29 @@ and improving backend system design.
 
 ## 🛠 Tech Stack
 
-**Frontend:** React, Tailwind CSS, Vite  
-**Backend:** Node.js, Express, JWT Authentication  
-**Database:** MongoDB  
-**Languages:** JavaScript (ES6+), Java, Python, C, SQL  
-**Cloud:** AWS (EC2, S3, IAM, RDS)  
-**Tools:** Git, GitHub, Postman, MongoDB Compass  
+### Frontend
+
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-7-646CFF?logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-Authentication-000000?logo=jsonwebtokens&logoColor=white)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
+### Tools & APIs
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-0C7BFF?logo=razorpay&logoColor=white)
+![Clipdrop](https://img.shields.io/badge/Clipdrop-AI-blue) 
 
 ---
 
