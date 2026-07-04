@@ -71,8 +71,8 @@ Description:
 ### NovaMart
 Tech Stack: React • Tailwind CSS • Node.js • Express • MongoDB
 
-🔗 GitHub: https://github.com/Akash30112004/nova_mart
-🌐 Live Demo: https://novamart123.vercel.app/
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/Akash30112004/nova_mart)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://novamart123.vercel.app/)
 
 Description:
 
@@ -85,8 +85,8 @@ Description:
 ### Imagify
 Tech Stack: React • Tailwind CSS • Node.js • Express • MongoDB
 
-🔗 GitHub: https://github.com/Akash30112004/Imagify
-🌐 Live Demo: https://imagify1-eight.vercel.app/
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/Akash30112004/Imagify)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://imagify1-eight.vercel.app/)
 
 Description:
 
