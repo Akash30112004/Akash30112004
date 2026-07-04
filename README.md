@@ -1,5 +1,5 @@
-# Akash Singh 
-
+<h1 align="center">Hi 👋, I'm Akash Singh</h1>
+<h3 align="center">Full-Stack Developer | React • Node.js • MongoDB</h3>
 <!--
 **Akash30112004/Akash30112004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -51,14 +51,7 @@ and improving backend system design.
 ### SnapLink
 Tech Stack: React • Tailwind CSS • Node.js • Express • MongoDB • Socket.IO
 
-<p>
-  <a href="https://github.com/Akash30112004/SnapLink">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github">
-  </a>
-  <a href="https://your-demo-link.vercel.app">
-    <img src="https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=vercel">
-  </a>
-</p>
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/Akash30112004/SnapLink)
 
 Description:
 
