@@ -130,7 +130,7 @@ Description:
   <a href="https://leetcode.com/u/Akash30112004/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://singhakash27158.profiled.site/">
+  <a href="https://my-portfolio-psi-six-54.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
